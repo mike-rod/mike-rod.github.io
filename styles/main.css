@@ -4,6 +4,10 @@ img {
 .site-header {
   position: relative;
 }
+.highlight
+{
+   color: #f00;
+}
 
 .site-header .mdl-layout__header-row {
   padding: 0;
